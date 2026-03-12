@@ -12,7 +12,7 @@ A full-featured D&D 5e (2024 PHB) DM management application.
 1. Create a repo named `dm-forge`
 2. Go to Settings → Pages → Source: GitHub Actions
 3. Push this folder's contents to the `main` branch
-4. App will be live at `https://USERNAME.github.io/dm-forge/`
+4. App will be live at `https://Csand1303.github.io/dm-forge/`
 
 ## Local Development
 ```
